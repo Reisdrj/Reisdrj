@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Reisdrj">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Reisdrj&count_private=true&show_icons=true&theme=github_dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="500em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Reisdrj&count_private=true&show_icons=true&theme=github_dark"/>
+  <img height="7000em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
  
  ## Languages

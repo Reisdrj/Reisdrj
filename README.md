@@ -15,5 +15,6 @@
 ## Social
   
 <div>
-  <img href="https://instagram.com/davi_dos_reis" src="https://img.shields.io/badge/@davi_dos_reis-E4405F?style=for-the-badge&logo=instagram&logoColor=white">  
+  <a href="https://instagram.com/davi_dos_reis" target="_blank"><img src="https://img.shields.io/badge/@davi_dos_reis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/Davi_Reis03" target="_blank"><img src="https://img.shields.io/badge/@Davi_Reis03-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target ="_blank"><a/>
 </div>

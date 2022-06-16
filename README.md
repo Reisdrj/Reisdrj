@@ -1,16 +1,19 @@
-### Hi there 👋
-### Eu sou o Davi
-<!--
-**Reisdrj/Reisdrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, seja bem vindo!👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href = "https://github.com/Reisdrj">
+  <img align="center" height="170cm" src="https://github-readme-stats.vercel.app/api?username=Reisdrj&count_private=true&show_icons=true&theme=github_dark">
+  <img align="center" height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&layout=compact&langs_count=6&theme=github_dark">
+</div>
+ 
+ ## Languages
+ 
+<div style="display: in-line block"><br>
+    <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
+  
+## Social
+  
+<div>
+  <img href="https://www.instagram.com/davi_dos_reis" src="https://img.shields.io/badge/@davi_dos_reis-E4405F?style=for-the-badge&logo=instagram&logoColor=white">  
+</div>

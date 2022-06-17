@@ -5,7 +5,7 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=Reisdrj&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark">
 </a>
 <a href="https://github.com/Reisdrj">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&layout=compact&theme=github_dark">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&layout=compact&count_private=true&theme=github_dark">
 </a>
 
  

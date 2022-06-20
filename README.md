@@ -1,12 +1,14 @@
 ## Olá, seja bem vindo!👋
 
-
-<a href="https://github.com/Reisdrj">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/?username=Reisdrj&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark">
-</a>
-<a href="https://github.com/Reisdrj">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&hide=Shell&layout=compact&theme=github_dark">
-</a>
+<div>
+  <a href="https://github.com/Reisdrj">
+    <img width=50% height=160 src="https://github-readme-stats.vercel.app/api/?username=Reisdrj&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark">
+  </a>
+  <br/>
+  <a href="https://github.com/Reisdrj">
+    <img width=40% height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&hide=Shell&layout=compact&theme=github_dark">
+  </a>
+</div>
 
  
  ## Languages

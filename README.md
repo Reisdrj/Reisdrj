@@ -1,21 +1,24 @@
-## Olá, seja bem vindo!👋
+## Olá, eu sou o Davi Reis!👋
 
-<div>
-  <a href="https://github.com/Reisdrj">
-    <img width=50% height=160 src="https://github-readme-stats.vercel.app/api/?username=Reisdrj&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark">
-  </a>
-  <br/>
-  <a href="https://github.com/Reisdrj">
-    <img width=40% height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&hide=Shell&layout=compact&theme=github_dark">
-  </a>
+<br></br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Reisdrj&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Davi Reis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reisdrj&layout=compact&langs_count=8&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
 </div>
+
+
+<br></br>
+<br></br>
+ 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reisdrj&bg_color=0d1117&color=00BFFF&line=1E90FF&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
  
  ## Languages
  
-<div style="display: in-line block"><br>
-    <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</div>
+![C](https://img.shields.io/badge/C-%230077B5?style=for-the-badge&logo=java&logoColor=white)
   
 ## Social
   

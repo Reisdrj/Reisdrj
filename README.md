@@ -8,10 +8,6 @@
 
 <br></br>
 <br></br>
- 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Reisdrj&bg_color=0d1117&color=00BFFF&line=1E90FF&point=ADD8E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="35px" height="35px">  Languages:
  

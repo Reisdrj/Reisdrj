@@ -12,10 +12,9 @@
 ## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="35px" height="35px">  Languages:
  
 ![C](https://img.shields.io/badge/C-%230077B5?style=for-the-badge&logoColor=white)
-  
+![Python](https://img.shields.io/badge/python-%230077B5?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif" heigth = "24" width = "64">Social:
   
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi_dos_reis/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Davi_Reis03)
     
 </div>
